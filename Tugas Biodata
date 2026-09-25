@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Latihan 2</title>
+</head>
+<body>
+<h1>Biodataku</h1>
+<hr>
+<table border="2">
+<tr>
+   <td>NAMA</td>
+   <td>:</td> 
+   <td><b>M.Faiq Setyobudi</b>
+</tr>
+<tr>
+    <td>KELAS</td> 
+    <td>:</td> 
+    <td><b>X PPLG</b>
+</tr>
+<tr> 
+    <td>TINGI BADAN</td> 
+    <td>:</td> 
+    <td><b>155<SUP>CM</SUP></b>
+</tr>
+<tr> 
+    <td>SUHU BADAN</td> 
+    <td>:</td> 
+    <td><b>27<SUP>o</sup></b>
+</tr>
+<tr>
+    <td>Social Media</td>
+    <td>:</td>
+    <td><a href="https://www.instagram.com/aiqiuzet?igsh=bDI2b211dGY0N2Zy">Link Instagram</a>
+    </tr>
+     <td>Foto</td>
+     <td>:</td>
+     <td><img src=https://semarsoft.com/wp-content/uploads/2026/08/Redmi-atau-Realme-terbaik-dengan-harga-2-jutaan_1.jpg alt="inifotoku" width="50%"></td>
+</tr>
+<tr>    
+    <td>Alamat</td>    
+    <td>:</td>    
+    <td><i>Bakalan,Beji</i></td>
+</tr>
+</table>
+</body>
+</html>
